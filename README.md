@@ -1,1 +1,1 @@
-# OJ-.c-.cpp
+# OJ-cpp
